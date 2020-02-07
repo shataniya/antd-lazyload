@@ -1,0 +1,11 @@
+.lazyload-img-box{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.lazyload-img{
+    /* max-width: 100%; */
+    width: 100%;
+}

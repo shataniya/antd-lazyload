@@ -1,0 +1,24 @@
+{
+  "name": "antd-lazyload",
+  "version": "1.0.0",
+  "description": "A lazy image loading component based on React, you can also use antd",
+  "main": "antdlazyload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shataniya/antd-lazyload.git"
+  },
+  "keywords": [
+    "react-lazyload",
+    "antd-lazyload",
+    "lazyload"
+  ],
+  "author": "sataniya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shataniya/antd-lazyload/issues"
+  },
+  "homepage": "https://github.com/shataniya/antd-lazyload#readme"
+}
