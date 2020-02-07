@@ -1,6 +1,6 @@
 {
   "name": "antd-lazyload",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A lazy image loading component based on React, you can also use antd",
   "main": "antdlazyload.js",
   "scripts": {
