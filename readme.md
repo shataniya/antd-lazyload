@@ -61,7 +61,7 @@ import AntdLazyLoad from 'antd-lazyload'
     </tr>
     <tr>
         <td>ImgStyle</td>
-        <td>lazyload-img</td>
+        <td></td>
         <td>Image styles</td>
     </tr>
 </table>
